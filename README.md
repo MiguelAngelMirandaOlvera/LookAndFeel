@@ -95,7 +95,7 @@
    
       {
       "item":"merchant_title_text_color",
-      "value":"00294B",
+      "value":"#00294B",
       "enable":true
       },
    
