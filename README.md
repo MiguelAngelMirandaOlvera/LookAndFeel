@@ -5,7 +5,7 @@
    
       {
       "item":"home_operation_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
@@ -23,7 +23,7 @@
    
       {
       "item":"home_coin_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
@@ -47,7 +47,7 @@
    
       {
       "item":"home_nav_icon_selected_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
@@ -65,7 +65,7 @@
    
       {
       "item":"home_nav_icon_text_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
@@ -89,19 +89,19 @@
    
       {
       "item":"toolbar_ic_back_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
       {
       "item":"merchant_title_text_color",
-      "value":"00294B",
+      "value":"DC12C4",
       "enable":true
       },
    
       {
       "item":"global_primary_text_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
@@ -143,13 +143,13 @@
    
       {
       "item":"signature_container_background_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
       {
       "item":"summary_item_title_payment_m_text_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
@@ -161,7 +161,7 @@
    
       {
       "item":"summary_item_selected_tip_background_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
@@ -233,7 +233,7 @@
    
       {
       "item":"global_printer_button_background_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
@@ -275,13 +275,13 @@
    
       {
       "item":"global_input_primary_text_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
       {
       "item":"filter_secondary_text_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
@@ -293,7 +293,7 @@
    
       {
       "item":"global_secondary_button_background_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
@@ -304,13 +304,13 @@
       },
  {
       "item":"global_fourth_button_background_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       },
    
       {
       "item":"global_tertiary_button_background_color",
-      "value":"#00294B",
+      "value":"#DC12C4",
       "enable":true
       }
    ],
